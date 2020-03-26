@@ -1,2 +1,2 @@
 # BabyMis
-A baby birth information management system by Java
+A baby birth information management system by JavaFX
